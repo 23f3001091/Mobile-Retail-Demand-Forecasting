@@ -1,0 +1,4 @@
+Tools & Technologies Used:
+- Microsoft Excel (data cleaning, pivot tables, charts)
+- Google Colab (data cleaning & analysis)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
